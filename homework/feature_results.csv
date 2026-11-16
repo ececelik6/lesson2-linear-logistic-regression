@@ -1,0 +1,5 @@
+features,feature_count,validation_mse
+baseline,10,2828.6080694988136
+polynomial,65,14119.542615874414
+interactions,55,4504.2396791726505
+statistics,12,3499.5092842152358
